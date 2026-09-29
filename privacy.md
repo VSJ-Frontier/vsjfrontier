@@ -161,8 +161,11 @@ is simply treated as unverified. This feature is used only on iPhone and iPad.
 
 ### Problem reports you choose to send
 
-SceneNest keeps a diagnostic log on your device recording errors and crashes. It is stored
-only on your device and is never uploaded automatically.
+SceneNest keeps a diagnostic log on your device. It records errors and crashes, and a short
+trail of what led up to them: when the app was opened, resumed or moved to the background, and
+which SceneNest screens you moved between. Screens are recorded by name only — never a list
+name, a person's name, or what you searched for. The log is stored only on your device, is
+capped in size so older entries are removed, and is never uploaded automatically.
 
 **Report a problem**, on the Account screen, prepares an email addressed to the contact
 below containing the app version and build, your device model, operating system version and
