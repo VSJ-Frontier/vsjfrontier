@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 1 October 2026
+**Effective date:** 2 October 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -140,6 +140,34 @@ The service does not keep which ids you sent or link them to you or your account
 lookup from an IMDb id to its catalogue title, used for everyone, so the same title is not looked up
 twice. The imported titles are then saved to your lists like any other title.
 
+### Anonymous usage counts
+
+To decide whether SceneNest is useful enough to keep running, we count a few things that happen in
+the app. The app sends the SceneNest service a short message when:
+
+- the app is opened for the first time,
+- the app is opened, at most once a day,
+- the Planner first shows you its advice about your streaming services, and
+- you ask to reserve SceneNest Pro.
+
+Each message contains only what happened, the date, the app version, whether the device is an
+iPhone, iPad or Android device, and a random usage number created on your device for this purpose.
+It never contains your titles, lists, streaming services, searches, name, email address or account.
+
+The usage number is separate from everything else SceneNest uses. It is not your account, and not
+the number used for rate limiting or push notifications. It is not a device or advertising
+identifier either. The messages are sent without your sign-in, so they cannot be connected to your
+account. The service keeps only a one-way hash of the usage number, and does not keep your IP
+address with these records. We use them only to count how many people reach the Planner's advice
+and how many are still using SceneNest a month later. They are never used for advertising, never
+sold or shared, and never combined with other information about you.
+
+Usage records are deleted automatically 120 days after they are created. Uninstalling the app
+deletes the usage number, and a reinstall starts a new one.
+
+You can turn this off at any time in **Account → Share anonymous usage counts**. When it is off,
+the app sends nothing more.
+
 ### Verifying that requests come from the genuine app (iPhone and iPad)
 
 To protect the service from automated abuse, SceneNest uses Apple's **App Attest**. On its
@@ -241,7 +269,8 @@ providers' safeguards and terms.
 
 ## Your choices
 
-You can use saved watchlists offline and without signing in. Signing out removes the local
+You can use saved watchlists offline and without signing in. You can stop anonymous usage counts at
+any time in **Account → Share anonymous usage counts**. Signing out removes the local
 account session and stops syncing; it does not delete the External ID account, your local
 lists, or the copy already in your account. When **Account → Delete cloud data** is available in
 your installed app version, you can permanently remove your SceneNest cloud profile, synced lists,
