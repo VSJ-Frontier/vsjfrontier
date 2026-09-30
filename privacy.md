@@ -107,6 +107,11 @@ another provider that includes a first or last name in the sign-in response, the
 in memory, to work out a name to show you when you have not set one — it is never written to your
 account and never leaves your device.
 
+**Founding members.** If you have an account when SceneNest Pro starts, the date your account was
+created decides whether the app offers you the founding discount on your first year of Pro. This
+uses the account record SceneNest already keeps; nothing new is collected, and the offer is made in
+the app, not by email.
+
 Authentication tokens are held in operating-system-protected storage and used only to
 maintain your session and prepare for future protected features. The current catalogue and
 configuration requests do not send those tokens to the SceneNest service.
@@ -146,9 +151,8 @@ To decide whether SceneNest is useful enough to keep running, we count a few thi
 the app. The app sends the SceneNest service a short message when:
 
 - the app is opened for the first time,
-- the app is opened, at most once a day,
-- the Planner first shows you its advice about your streaming services, and
-- you ask to reserve SceneNest Pro.
+- the app is opened, at most once a day, and
+- the Planner first shows you its advice about your streaming services.
 
 Each message contains only what happened, the date, the app version, whether the device is an
 iPhone, iPad or Android device, and a random usage number created on your device for this purpose.
