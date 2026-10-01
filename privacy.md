@@ -42,7 +42,9 @@ applicable when it was most recently marked watched, your Like/Dislike/Love pref
 **My note**. My note is one private note per title, even when the title is in several lists. We
 also sync your complete **My Streaming Services** selection and any selected plan tier, and the
 **My Watch Time** figure you set — roughly how many hours a week you expect to watch — so they are
-available on your other signed-in devices. We also sync which of your lists you have marked as a
+available on your other signed-in devices. Your confirmed **Country / Region** also syncs to your
+other signed-in devices so they use the same streaming market. This uses a country setting, not
+your GPS location, and is never shared with your family group. We also sync which of your lists you have marked as a
 **priority list**, so the planner can base its subscription advice on the titles you actually mean
 to watch. This is your own setting: a list shared with your family group can be a priority list for
 you and not for another member, and your answer is never visible to them. For saved titles,
