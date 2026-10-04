@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 2 October 2026
+**Effective date:** 5 October 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -51,7 +51,10 @@ your GPS location, and is never shared with your family group. We also sync whic
 to watch. This is your own setting: a list shared with your family group can be a priority list for
 you and not for another member, and your answer is never visible to them. For saved titles,
 SceneNest also syncs the latest streaming-availability snapshot, the country it applies to, and when
-it was checked so your By Service view stays consistent across your signed-in devices.
+it was checked so your By Service view stays consistent across your signed-in devices. We also sync
+public series release information when available: the last listed aired episode, the next listed
+episode and date, season counts and dates, whether the series is ended or in production, and when
+that information was observed. These are catalogue facts, not a record of episodes you have watched.
 
 For a service you have described further under **My Streaming Services**, we also sync whether it
 comes included with something else, is prepaid to a renewal date, or is a plan you can cancel
@@ -80,7 +83,8 @@ advertising, profiling, or sharing with third parties.
 If you create or join a Family Sharing group, SceneNest stores the group name, your group role,
 and the account relationship needed to authorize the group. An Owner may choose individual lists
 to share. The selected list's name, titles, basic title information, priority, and latest
-country-specific streaming-availability snapshots are then sent to SceneNest and made available to
+country-specific streaming-availability snapshots and public series release information are sent to
+SceneNest and made available to
 the other signed-in members of that group. Changes to that selected list can sync between members'
 devices. A selected shared-list item can also say that it has been completed by someone in the
 group, so household subscription advice does not keep counting it as still to watch. That fact does
