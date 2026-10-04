@@ -56,7 +56,9 @@ it was checked so your By Service view stays consistent across your signed-in de
 For a service you have described further under **My Streaming Services**, we also sync whether it
 comes included with something else, is prepaid to a renewal date, or is a plan you can cancel
 month to month; that renewal date; and, only if you choose to enter it, the monthly amount you pay
-and its currency. We use this only to give more accurate advice about which subscriptions are
+and its currency. For a plan you pay month to month, if you choose to enter it, we also sync the day
+that plan is paid until, whether that day is an estimate, and the plan you were on when you entered
+it. If you tell us you cancelled a service and when your access ends, that is the same day. We use this only to give more accurate advice about which subscriptions are
 worth keeping, never to infer or estimate a price you have not told us. Separately, if the planner
 suggests a service you have kept anyway, we remember that answer for a few months so it does not
 ask again too soon — this record says only "not now" or "I'm keeping it" and for which service, and
