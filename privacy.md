@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 10 October 2026
+**Effective date:** 11 October 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -87,7 +87,9 @@ to share. The selected list's name, titles, basic title information, priority, a
 country-specific streaming-availability snapshots and public series release information are sent to
 SceneNest and made available to
 the other signed-in members of that group. Changes to that selected list can sync between members'
-devices. SceneNest records which member added a title to a shared list, and shows that to the group.
+devices. Every member of the group can see the display name, group role and joining date of every
+other member, including a member who has not added a title, and each member's device keeps a copy
+of that list. SceneNest records which member added a title to a shared list, and shows that to the group.
 For a title you added to a shared list, the group can also see when you have finished or dropped it,
 so household subscription advice stops keeping a service for it; you can undo that by changing your
 status. This applies only to titles you added to a shared list. It does not reveal your status on
@@ -95,6 +97,13 @@ any other title, or your seasons, progress, reaction, note, or viewing history. 
 titles you did not add to a shared list, which seasons you have watched, your Like/Dislike/Love
 preference, your My Watch Time figure, and your My note remain private to your own account and
 devices; they are never shared with the group.
+
+An Owner can remove a member, and a member who is not the Owner can leave. A member who is removed
+or leaves loses access to the group's shared lists, and those lists are removed from their device
+the next time it connects to SceneNest; what a device had already downloaded stays on it until
+then. For the members who remain, the titles that person added stay on the shared lists with their
+name, and so does whether they had finished or dropped each one. Removing a member also cancels the
+group's unused invite codes.
 
 Family Sharing does not make every list public: lists you do not select remain private to your own
 account and devices. Your personal tracking remains personal and is not shared with the group.
