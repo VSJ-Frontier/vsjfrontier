@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 19 October 2026
+**Effective date:** 22 October 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -72,6 +72,13 @@ recorded one, how many saved titles retired with it — so the app can show you 
 services were off and, where you entered a price, what that saved. This record is never created
 from a service simply disappearing from your selection on its own; only from you confirming it. If
 you add the service back, the record shows that gap rather than continuing to count past that date.
+
+We also keep dated records of the streaming services you tell SceneNest you have, their monthly,
+yearly or bundled status, and when you confirm access ends or starts again. These records let you
+see your recorded active subscription days over time. Missing history is shown as unknown; this
+is not a record of charges from your streaming providers. These records stay on your device when
+you are signed out and sync privately to your own account when you sign in. They are never shared
+with your family group or included in anonymous usage counts.
 
 When the planner leaves out a yearly or bundled title that was first in line for your watch time, we
 also sync a short planning record for that title: that it is owed time, the month it is due, and the
