@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneNest Privacy Policy
 
-**Effective date:** 22 October 2026
+**Effective date:** 30 October 2026
 
 SceneNest helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -280,6 +280,12 @@ you saved.
 SceneNest relies on:
 
 - **Microsoft Azure** to host the SceneNest service and operational telemetry.
+- **Cloudflare** to carry the app's connection to the SceneNest service and protect it from abuse,
+  such as floods of automated requests. Cloudflare decrypts each request and passes it on to the
+  service over a separate encrypted connection, so it handles everything the app exchanges with the
+  service: searches, sign-in tokens and, if you sign in, your synced lists. SceneNest has set
+  Cloudflare not to cache any of it. Cloudflare processes your IP address and request details to
+  route and secure the connection, under its own privacy policy.
 - **Microsoft Entra External ID** to provide optional account sign-up, sign-in, session
   security, and account records.
 - **The Movie Database (TMDB)** for movie and television catalogue information.
@@ -301,9 +307,10 @@ SceneNest does not knowingly create or collect account profiles for children und
 
 ## Security and international processing
 
-SceneNest uses HTTPS for communication with its service. Information processed by Azure
-or TMDB may be handled in countries other than the one where you live, subject to those
-providers' safeguards and terms.
+SceneNest uses HTTPS for communication with its service. Connections pass through Cloudflare's
+network, where they are decrypted and re-encrypted before reaching the service (see *Third-party
+services*). Information processed by Azure, Cloudflare or TMDB may be handled in countries other
+than the one where you live, subject to those providers' safeguards and terms.
 
 ## Your choices
 
