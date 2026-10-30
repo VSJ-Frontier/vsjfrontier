@@ -12,7 +12,7 @@ little personal information as they can, and never sell what they hold.
 
 ### SceneCompass
 
-SceneCompass (formerly SceneCompass) is a local-first movie and TV watchlist and planner. Search
+SceneCompass (formerly SceneNest) is a local-first movie and TV watchlist and planner. Search
 for a title, save it to your own lists, track what you have watched, see where it is available to
 stream in your country, and plan which streaming services are worth keeping each month. It works
 fully offline without an account; signing in is optional and only syncs your own library to your
