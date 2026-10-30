@@ -1,24 +1,24 @@
 ---
-title: SceneNest Privacy Policy
+title: SceneCompass Privacy Policy
 permalink: /privacy/
 ---
 
-# SceneNest Privacy Policy
+# SceneCompass Privacy Policy
 
 **Effective date:** 30 October 2026
 
-SceneNest helps you search for movies and television shows, save them to personal
+SceneCompass (formerly SceneNest) helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
-SceneNest handles information when you use the mobile app.
+SceneCompass handles information when you use the mobile app.
 
-SceneNest is published by **VSJ Frontier**, operating from Australia.
+SceneCompass is published by **VSJ Frontier**, operating from Australia.
 
-## Information handled by SceneNest
+## Information handled by SceneCompass
 
 ### Information stored on your device
 
 Your watchlists, saved titles, viewing preferences, notes, titles recently opened from
-search, and cached title information are stored locally on your device. You can use SceneNest
+search, and cached title information are stored locally on your device. You can use SceneCompass
 fully offline without signing in.
 
 This includes the streaming services you choose under **My Streaming Services**, and the
@@ -29,7 +29,7 @@ copy according to your Apple backup settings.
 
 ### Watchlist information sent when you sign in
 
-If you sign in, SceneNest syncs your library to your account so it appears on your other
+If you sign in, SceneCompass syncs your library to your account so it appears on your other
 signed-in devices. **Signing in for the first time uploads the watchlists you already have
 on that device** — they join your account rather than being replaced by it.
 
@@ -50,7 +50,7 @@ your GPS location, and is never shared with your family group. We also sync whic
 **priority list**, so the planner can base its subscription advice on the titles you actually mean
 to watch. This is your own setting: a list shared with your family group can be a priority list for
 you and not for another member, and your answer is never visible to them. For saved titles,
-SceneNest also syncs the latest streaming-availability snapshot, the country it applies to, and when
+SceneCompass also syncs the latest streaming-availability snapshot, the country it applies to, and when
 it was checked so your By Service view stays consistent across your signed-in devices. We also sync
 public series release information when available: the last listed aired episode, the next listed
 episode and date, season counts and dates, whether the series is ended or in production, and when
@@ -73,7 +73,7 @@ services were off and, where you entered a price, what that saved. This record i
 from a service simply disappearing from your selection on its own; only from you confirming it. If
 you add the service back, the record shows that gap rather than continuing to count past that date.
 
-We also keep dated records of the streaming services you tell SceneNest you have, their monthly,
+We also keep dated records of the streaming services you tell SceneCompass you have, their monthly,
 yearly or bundled status, and when you confirm access ends or starts again. These records let you
 see your recorded active subscription days over time. Missing history is shown as unknown; this
 is not a record of charges from your streaming providers. These records stay on your device when
@@ -93,15 +93,15 @@ advertising, profiling, or sharing with third parties.
 
 ### Family Sharing you choose to enable
 
-If you create or join a Family Sharing group, SceneNest stores the group name, your group role,
+If you create or join a Family Sharing group, SceneCompass stores the group name, your group role,
 and the account relationship needed to authorize the group. An Owner may choose individual lists
 to share. The selected list's name, titles, basic title information, priority, and latest
 country-specific streaming-availability snapshots and public series release information are sent to
-SceneNest and made available to
+SceneCompass and made available to
 the other signed-in members of that group. Changes to that selected list can sync between members'
 devices. Every member of the group can see the display name, group role and joining date of every
 other member, including a member who has not added a title, and each member's device keeps a copy
-of that list. SceneNest records which member added a title to a shared list, and shows that to the group.
+of that list. SceneCompass records which member added a title to a shared list, and shows that to the group.
 For a title you added to a shared list, the group can also see when you have finished or dropped it,
 so household subscription advice stops keeping a service for it; you can undo that by changing your
 status. This applies only to titles you added to a shared list. It does not reveal your status on
@@ -112,48 +112,48 @@ devices; they are never shared with the group.
 
 An Owner can remove a member, and a member who is not the Owner can leave. A member who is removed
 or leaves loses access to the group's shared lists, and those lists are removed from their device
-the next time it connects to SceneNest; what a device had already downloaded stays on it until
+the next time it connects to SceneCompass; what a device had already downloaded stays on it until
 then. For the members who remain, the titles that person added stay on the shared lists with their
 name, and so does whether they had finished or dropped each one. Removing a member also cancels the
 group's unused invite codes.
 
 Family Sharing does not make every list public: lists you do not select remain private to your own
 account and devices. Your personal tracking remains personal and is not shared with the group.
-Invite codes are one-time, expire, and are shown only to the Owner who creates one; SceneNest does
+Invite codes are one-time, expire, and are shown only to the Owner who creates one; SceneCompass does
 not email them or retain their readable value after creation. Family Sharing is not used for
 advertising, profiling, or sharing outside the group you chose.
 
 ### Optional account information
 
-You can use SceneNest without an account. If you choose to sign up or sign in, Microsoft
+You can use SceneCompass without an account. If you choose to sign up or sign in, Microsoft
 Entra External ID processes your email address, password or other selected sign-in method,
 basic account profile, authentication events, and security information needed to operate
 the account. **When you create an account you are asked for a display name**, which is the
 name other members of a Family Sharing group see; you choose what it says, and it does not
-have to be your real name. SceneNest receives limited profile information — that display name,
+have to be your real name. SceneCompass receives limited profile information — that display name,
 your email address, and an optional profile-picture URL — plus authentication tokens. The app may
 display that provider picture or, when it is unavailable, initials derived from your display name.
-Passwords are handled by Microsoft Entra and are not available to or stored by the SceneNest app.
+Passwords are handled by Microsoft Entra and are not available to or stored by the SceneCompass app.
 
-**SceneNest does not collect or store your first or last name.** Sign-up does not ask for them,
+**SceneCompass does not collect or store your first or last name.** Sign-up does not ask for them,
 and your account record holds only the display name you chose. If you sign in with Google or
 another provider that includes a first or last name in the sign-in response, the app uses it only
 in memory, to work out a name to show you when you have not set one — it is never written to your
 account and never leaves your device.
 
-**Founding members.** If you have an account when SceneNest Pro starts, the date your account was
+**Founding members.** If you have an account when SceneCompass Pro starts, the date your account was
 created decides whether the app offers you the founding discount on your first year of Pro. This
-uses the account record SceneNest already keeps; nothing new is collected, and the offer is made in
+uses the account record SceneCompass already keeps; nothing new is collected, and the offer is made in
 the app, not by email.
 
 Authentication tokens are held in operating-system-protected storage and used only to
 maintain your session and prepare for future protected features. The current catalogue and
-configuration requests do not send those tokens to the SceneNest service.
+configuration requests do not send those tokens to the SceneCompass service.
 
 ### Information sent when you use online features
 
 When you search, open title details, refresh streaming availability, or load discovery
-content, the app sends the search or title request and a country code to the SceneNest
+content, the app sends the search or title request and a country code to the SceneCompass
 service. The service needs this information to return relevant catalogue and regional
 streaming results.
 
@@ -181,8 +181,8 @@ twice. The imported titles are then saved to your lists like any other title.
 
 ### Anonymous usage counts
 
-To decide whether SceneNest is useful enough to keep running, we count a few things that happen in
-the app. The app sends the SceneNest service a short message when:
+To decide whether SceneCompass is useful enough to keep running, we count a few things that happen in
+the app. The app sends the SceneCompass service a short message when:
 
 - the app is opened for the first time,
 - the app is opened, at most once a day, and
@@ -192,12 +192,12 @@ Each message contains only what happened, the date, the app version, whether the
 iPhone, iPad or Android device, and a random usage number created on your device for this purpose.
 It never contains your titles, lists, streaming services, searches, name, email address or account.
 
-The usage number is separate from everything else SceneNest uses. It is not your account, and not
+The usage number is separate from everything else SceneCompass uses. It is not your account, and not
 the number used for rate limiting or push notifications. It is not a device or advertising
 identifier either. The messages are sent without your sign-in, so they cannot be connected to your
 account. The service keeps only a one-way hash of the usage number, and does not keep your IP
 address with these records. We use them only to count how many people reach the Planner's advice
-and how many are still using SceneNest a month later. They are never used for advertising, never
+and how many are still using SceneCompass a month later. They are never used for advertising, never
 sold or shared, and never combined with other information about you.
 
 Usage records are deleted automatically 120 days after they are created. Uninstalling the app
@@ -208,28 +208,28 @@ the app sends nothing more.
 
 ### Verifying that requests come from the genuine app (iPhone and iPad)
 
-To protect the service from automated abuse, SceneNest uses Apple's **App Attest**. On its
+To protect the service from automated abuse, SceneCompass uses Apple's **App Attest**. On its
 first search, the app asks the device's secure hardware to create a key and asks Apple to
-certify that it belongs to a genuine, unmodified copy of SceneNest. The app sends the
-resulting certification, and a short signed value with later searches, to the SceneNest
+certify that it belongs to a genuine, unmodified copy of SceneCompass. The app sends the
+resulting certification, and a short signed value with later searches, to the SceneCompass
 service.
 
 This confirms that a request comes from the real app on real Apple hardware. It **does not
 identify you**, and it is not linked to your account, your email address, or your watchlists.
 The service stores an identifier for the key and a counter used to detect replayed requests.
-Apple's role is described in Apple's own privacy documentation; SceneNest does not receive
+Apple's role is described in Apple's own privacy documentation; SceneCompass does not receive
 any advertising identifier, hardware serial number, or other device identifier through this
 process.
 
 Deleting the app deletes the key. If verification is unavailable — an older device, a device
-that does not support it, or any failure — SceneNest continues to work normally; the request
+that does not support it, or any failure — SceneCompass continues to work normally; the request
 is simply treated as unverified. This feature is used only on iPhone and iPad.
 
 ### Problem reports you choose to send
 
-SceneNest keeps a diagnostic log on your device. It records errors and crashes, and a short
+SceneCompass keeps a diagnostic log on your device. It records errors and crashes, and a short
 trail of what led up to them: when the app was opened, resumed or moved to the background, and
-which SceneNest screens you moved between. Screens are recorded by name only — never a list
+which SceneCompass screens you moved between. Screens are recorded by name only — never a list
 name, a person's name, or what you searched for. The log is stored only on your device, is
 capped in size so older entries are removed, and is never uploaded automatically.
 
@@ -241,13 +241,13 @@ send in your own mail app, and you can review or edit the message first. If your
 no mail account, the report is offered to the system share sheet instead, and you choose
 where it goes.
 
-You can also copy the log yourself from Files → On My iPhone → SceneNest, and delete it
+You can also copy the log yourself from Files → On My iPhone → SceneCompass, and delete it
 there.
 
 ### Push notifications you choose to receive
 
 Push notifications are **off unless you turn them on**. When you enable **Push Notifications** on
-the Account screen and allow notifications at the operating-system prompt, SceneNest stores a push
+the Account screen and allow notifications at the operating-system prompt, SceneCompass stores a push
 token for that device so it can reach it, and starts telling you when a title you saved becomes
 available to stream on one of the services you selected.
 
@@ -262,28 +262,28 @@ lock-screen previews in your device's own notification settings.
 **Who handles it.** The notification is sent through **Microsoft Azure Notification Hubs** and
 delivered by **Apple Push Notification service** (iPhone and iPad) or **Google Firebase Cloud
 Messaging** (Android), acting as delivery providers on our behalf. Its text passes through them.
-These providers were not previously in the path of any SceneNest information.
+These providers were not previously in the path of any SceneCompass information.
 
-**What is stored.** SceneNest stores each notification-enabled device's push token, and — so you are
+**What is stored.** SceneCompass stores each notification-enabled device's push token, and — so you are
 not told about the same arrival twice — a record of which of your saved titles have already been
 notified, on which service, and when. Those records are automatically deleted after 30 days. Your
 watchlists themselves are not sent to Apple or Google.
 
 **How to stop it.** Turning **Push Notifications** off on the Account screen switches notifications
 off for your whole account, on every device, and takes effect immediately. You can also turn
-SceneNest notifications off in your device's own settings. Notifications are never used for
+SceneCompass notifications off in your device's own settings. Notifications are never used for
 advertising, marketing, or profiling; the only thing they are used for is telling you about titles
 you saved.
 
 ## Third-party services
 
-SceneNest relies on:
+SceneCompass relies on:
 
-- **Microsoft Azure** to host the SceneNest service and operational telemetry.
-- **Cloudflare** to carry the app's connection to the SceneNest service and protect it from abuse,
+- **Microsoft Azure** to host the SceneCompass service and operational telemetry.
+- **Cloudflare** to carry the app's connection to the SceneCompass service and protect it from abuse,
   such as floods of automated requests. Cloudflare decrypts each request and passes it on to the
   service over a separate encrypted connection, so it handles everything the app exchanges with the
-  service: searches, sign-in tokens and, if you sign in, your synced lists. SceneNest has set
+  service: searches, sign-in tokens and, if you sign in, your synced lists. SceneCompass has set
   Cloudflare not to cache any of it. Cloudflare processes your IP address and request details to
   route and secure the connection, under its own privacy policy.
 - **Microsoft Entra External ID** to provide optional account sign-up, sign-in, session
@@ -294,20 +294,20 @@ SceneNest relies on:
   choose to receive* above.
 - YouTube and streaming-provider websites or apps when you choose to open an external
   trailer or availability link. Their own privacy policies apply after you leave
-  SceneNest.
+  SceneCompass.
 
-SceneNest does not sell your personal information and does not use third-party advertising
+SceneCompass does not sell your personal information and does not use third-party advertising
 SDKs in the mobile app. These service providers are expected to handle information under
 their own privacy and security obligations.
 
 ## Children
 
-SceneNest is a general-audience watchlist app and is not directed to children under 13.
-SceneNest does not knowingly create or collect account profiles for children under 13.
+SceneCompass is a general-audience watchlist app and is not directed to children under 13.
+SceneCompass does not knowingly create or collect account profiles for children under 13.
 
 ## Security and international processing
 
-SceneNest uses HTTPS for communication with its service. Connections pass through Cloudflare's
+SceneCompass uses HTTPS for communication with its service. Connections pass through Cloudflare's
 network, where they are decrypted and re-encrypted before reaching the service (see *Third-party
 services*). Information processed by Azure, Cloudflare or TMDB may be handled in countries other
 than the one where you live, subject to those providers' safeguards and terms.
@@ -318,16 +318,16 @@ You can use saved watchlists offline and without signing in. You can stop anonym
 any time in **Account → Share anonymous usage counts**. Signing out removes the local
 account session and stops syncing; it does not delete the External ID account, your local
 lists, or the copy already in your account. When **Account → Delete cloud data** is available in
-your installed app version, you can permanently remove your SceneNest cloud profile, synced lists,
+your installed app version, you can permanently remove your SceneCompass cloud profile, synced lists,
 and Family Sharing membership by completing two confirmations. This does not delete your Entra
 External ID sign-in identity or your device's local lists. If you own a Family Sharing group with
 other members, ownership transfers to one of them and shared lists remain available; if you are its
 only member, the group and shared lists are removed.
 
-**Account → Request full account deletion** permanently removes that same SceneNest cloud data
+**Account → Request full account deletion** permanently removes that same SceneCompass cloud data
 straight away and records a request to delete your Entra External ID sign-in identity. That identity
-is deleted automatically 14 days later by a separate SceneNest service; the app and the service it
-talks to cannot delete directory identities themselves. If you sign in and use SceneNest again
+is deleted automatically 14 days later by a separate SceneCompass service; the app and the service it
+talks to cannot delete directory identities themselves. If you sign in and use SceneCompass again
 within those 14 days, the identity deletion is cancelled because you are using the account again;
 the cloud data already deleted is not restored. If the option is not available in your installed
 app version, email the contact below to request full account deletion. Your device's local lists
@@ -339,14 +339,14 @@ To request access or correction, or ask a privacy question, contact the address 
 
 ## Changes to this policy
 
-This policy may be updated as SceneNest adds features. The effective date above will change when
+This policy may be updated as SceneCompass adds features. The effective date above will change when
 the policy changes materially.
 
 ## Contact
 
 Email: [scenenest.privacy@outlook.com](mailto:scenenest.privacy@outlook.com)
 
-To delete your SceneNest cloud data or request full account deletion, see
-[Delete SceneNest cloud data](/delete-account/).
+To delete your SceneCompass cloud data or request full account deletion, see
+[Delete SceneCompass cloud data](/delete-account/).
 
-SceneNest is currently operated from Australia.
+SceneCompass is currently operated from Australia.

@@ -10,21 +10,22 @@ little personal information as they can, and never sell what they hold.
 
 ## Our apps
 
-### SceneNest
+### SceneCompass
 
-SceneNest is a local-first movie and TV watchlist. Search for a title, save it to your own
-lists, track what you have watched, and see where it is available to stream in your country.
-It works fully offline without an account; signing in is optional and only syncs your own
-library to your own devices.
+SceneCompass (formerly SceneCompass) is a local-first movie and TV watchlist and planner. Search
+for a title, save it to your own lists, track what you have watched, see where it is available to
+stream in your country, and plan which streaming services are worth keeping each month. It works
+fully offline without an account; signing in is optional and only syncs your own library to your
+own devices.
 
-*Currently in beta on TestFlight.*
+*Currently in beta on TestFlight and Google Play.*
 
 ## Privacy
 
 We publish a plain-language privacy policy for every app we ship.
 
-- [SceneNest privacy policy](/privacy/)
-- [Delete SceneNest cloud data or request full account deletion](/delete-account/)
+- [SceneCompass privacy policy](/privacy/)
+- [Delete SceneCompass cloud data or request full account deletion](/delete-account/)
 
 ## Contact
 

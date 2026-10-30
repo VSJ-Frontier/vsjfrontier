@@ -9,9 +9,9 @@ Published site: <https://vsjfrontier.com>
 | Page | URL |
 |---|---|
 | Home | <https://vsjfrontier.com/> |
-| SceneNest privacy policy | <https://vsjfrontier.com/privacy/> |
-| Delete SceneNest cloud data | <https://vsjfrontier.com/delete-account/> |
+| SceneCompass privacy policy | <https://vsjfrontier.com/privacy/> |
+| Delete SceneCompass cloud data | <https://vsjfrontier.com/delete-account/> |
 
 The privacy policy here is a **mirror**. Its canonical source is `docs/privacy-policy.md` in
-the private SceneNest application repository; the two are updated in the same change, and this
+the private SceneCompass application repository; the two are updated in the same change, and this
 mirror is pushed **before** any build carrying the described behaviour reaches testers.
