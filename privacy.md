@@ -241,8 +241,7 @@ send in your own mail app, and you can review or edit the message first. If your
 no mail account, the report is offered to the system share sheet instead, and you choose
 where it goes.
 
-You can also copy the log yourself from Files → On My iPhone → SceneCompass, and delete it
-there.
+The log stays inside the app; it is not shown in the Files app. Deleting the app deletes the log.
 
 ### Push notifications you choose to receive
 
