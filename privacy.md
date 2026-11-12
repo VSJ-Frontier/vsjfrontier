@@ -268,6 +268,11 @@ not told about the same arrival twice — a record of which of your saved titles
 notified, on which service, and when. Those records are automatically deleted after 30 days. Your
 watchlists themselves are not sent to Apple or Google.
 
+**How long a push token is kept.** Signing out on a device removes that device's push token. If the
+device is offline at that moment, the token is removed when someone next signs in on it, or it
+expires. Deleting your SceneCompass cloud data or your account removes the push tokens of all your
+devices. A token for a device that has not checked in for 90 days is deleted automatically.
+
 **How to stop it.** Turning **Push Notifications** off on the Account screen switches notifications
 off for your whole account, on every device, and takes effect immediately. You can also turn
 SceneCompass notifications off in your device's own settings. Notifications are never used for
