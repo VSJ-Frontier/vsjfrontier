@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # SceneCompass Privacy Policy
 
-**Effective date:** 30 October 2026
+**Effective date:** 13 November 2026
 
 SceneCompass (formerly SceneNest) helps you search for movies and television shows, save them to personal
 watchlists, and view where they are available to stream. This policy explains how
@@ -240,6 +240,13 @@ in the log can include the names of titles you have saved. Nothing is sent unles
 send in your own mail app, and you can review or edit the message first. If your device has
 no mail account, the report is offered to the system share sheet instead, and you choose
 where it goes.
+
+An IMDb import also keeps a summary of record counts and outcomes in this local log. New import
+summaries exclude titles, IMDb IDs, ratings, rating dates, filenames and list names. Detailed
+explanations stay on your phone for the current import flow. **Share import summary** shows you
+exactly what will be shared: counts only by default. You may choose individual affected records
+to include their titles, explanations and IMDb links. Nothing is selected by default, and nothing
+is sent automatically. You never need to share your original IMDb export to explain an import.
 
 The log stays inside the app; it is not shown in the Files app. Deleting the app deletes the log.
 
